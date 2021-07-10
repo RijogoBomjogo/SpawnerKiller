@@ -1,0 +1,10 @@
+name: SpawnerKiller
+version: 1.0-SNAPSHOT
+main: tr.donsuzturk.spawnerkiller.Main
+api-version: 1.17
+authors: [ DonsuzTurk ]
+description: Automatically kills creatures spawner and drops their items.
+commands:
+  spawnerkiller:
+    aliases:
+      - spkiller
